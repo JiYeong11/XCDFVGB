@@ -1,1 +1,1 @@
-java -Dnogui=true -jar JMusicBot-0.3.9.jar
+worker: java -jar -Dnogui=true JMusicBot-0.3.9.jar 
